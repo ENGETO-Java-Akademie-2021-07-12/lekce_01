@@ -6,18 +6,23 @@
 
 ## Co bychom měli mít hotové
 
-Před první hodinou byste měli mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro/blob/main/priprava.md) a v&nbsp;případě, že narazíte při instalaci na nějaký problém, tak nám klidně napište na Slacku a rádi Vám s&nbsp;tím poradíme.
+Před první hodinou bys měl(a) mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro/blob/main/priprava.md).
+
+Pokud jsi narazil(a) při instalaci na problém, tak nám klidně napište na Slacku a rádi Vám s&nbsp;tím poradíme. Můžeš také využít konzultaci.
 
 ## Co nás čeká
-
- - [Co je to Java](java-a-jdk.md)
  
-  - [První projekt: Hello World](prvni-projekt.md)
- 
- - [Nástroje vývojáře](nastroje.md)
+ - [První program: Hello World!](prvni-projekt.md)
  
  - [Proměnné a&nbsp;datové typy](promenne-a-datove-typy.md)
  
+# Samostudium
+
+ - [Co je to Java](java-a-jdk.md)
+
+ - [Nástroje vývojáře](nastroje.md)
+ 
+
 
 ## Úkoly
 
