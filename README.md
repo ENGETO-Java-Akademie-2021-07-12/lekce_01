@@ -24,8 +24,6 @@ Před první hodinou byste měli mít naistalované základní nástoje, které 
  - [Připrav proměnné](ukoly.md)
  - [Oprav chybný kód](ukoly01-oprav-kod/README.md)
 
-## [Pusťme se do toho: Co je Java?](java-a-jdk.md)
-
 
 ---
 
