@@ -6,7 +6,7 @@
 
 ## Co bychom měli mít hotové
 
-Před první hodinou byste měli mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2021/intro/blob/main/priprava.md) a v&nbsp;případě, že narazíte při instalaci na nějaký problém, tak nám klidně napište na Slacku a rádi Vám s&nbsp;tím poradíme.
+Před první hodinou byste měli mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro/blob/main/priprava.md) a v&nbsp;případě, že narazíte při instalaci na nějaký problém, tak nám klidně napište na Slacku a rádi Vám s&nbsp;tím poradíme.
 
 ## Co nás čeká
 
@@ -29,4 +29,4 @@ Před první hodinou byste měli mít naistalované základní nástoje, které 
 
 ---
 
-[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2021/intro)
+[Zpět na přehled akademie](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro)
