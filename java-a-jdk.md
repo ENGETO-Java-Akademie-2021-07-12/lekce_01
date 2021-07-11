@@ -1,6 +1,6 @@
 # Co je to Java?
  
- První vydání jazyka se datuje do roku 1995, vývoj však započal na začátku devadesátých let. 
+ Java je programovací jazyk. První vydání jazyka se datuje do roku 1995, vývoj však započal na začátku devadesátých let. 
  
  ## Překlad a bajtkód
  - Jazyk Java byl navržen jako řešení pro vývoj **platformně nezávislých programů**.
@@ -12,10 +12,7 @@
  
  - Zároveň je to **omezení** — **bez JVM program nespustíš** a&nbsp;při spouštění je třeba aktivovat JVM, nestačí jen „kliknout“ na spustitelný program (resp. stačí, pokud je systém správně nastavený).
 
-## Objektově orientovaný jazyk
-Java je _objektově orientovaný jazyk._ To znamená, že Java není _čistě objektový jazyk_ &mdash; používá i&nbsp;primitivní datové typy, které nejsou reprezentovány jako objekty. 
-
-# IDE, JDK, JRE a různé platformy
+## IDE, JDK, JRE a různé platformy
 
 Jak to tedy v&nbsp;Javě funguje?
 
@@ -24,6 +21,13 @@ Jak to tedy v&nbsp;Javě funguje?
 
 ![JDK, JRE a různé platformy](img/jdk-jvm-bytecode.png)
 
+
+# Charakteristika Javy
+
+## Objektově orientovaný jazyk
+Java je _objektově orientovaný jazyk._ To znamená, že Java není _čistě objektový jazyk_ &mdash; používá i&nbsp;primitivní datové typy, které nejsou reprezentovány jako objekty. 
+
+
 ## Garbage Collector a práce s&nbsp;pamětí
 Java se proti mnoha jiným jazykům vyznačuje zejména bezpečností při správě paměti. Vývojář je plně odstíněn od práce s ní. Při práci s objekty využívá pouze reference (odkazy) a veškerou alokaci a uvolňování paměti řeší JVM, popřípadě Garbage Collector. (V tomto rysu je Java podobná jazyku C#.) Tím se:
 
@@ -31,7 +35,7 @@ Java se proti mnoha jiným jazykům vyznačuje zejména bezpečností při sprá
 
 - ale práce s&nbsp;pamětí může být o&nbsp;méně efektivní po stránce rychlosti i&nbsp;potřebné kapacity paměti &mdash; spoléháme na „inteligenci“ Garbage Collectoru, nemůžeme činnost ovlivnit sami. 
 
-## A jak zápis programu v&nbsp;Javě vypadá?
+# A jak zápis programu v&nbsp;Javě vypadá?
 
 Tady je malá ukázka _zdrojového kódu_ v&nbsp;Javě &mdash; toto je zápis programu, který budeme vytvářet:
 
@@ -67,7 +71,7 @@ class CoalMine {
 }
 ```
 
-## Shrňme si to
+# Shrňme si to
 
 ### IDE
 _Integrated Development Environment_ je nástroj pro psaní zdrojového kódu. „Chytrý textový editor“, který má programátorovi usnadnit samotné psaní kódu. Často zahrnuje
