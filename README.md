@@ -15,17 +15,17 @@ Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to m
  - Úvod
     - [Jak probíhá Java akademie](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro/blob/main/o-akademii.md)
 
-    - [Co je to Java](java-a-jdk.md)
-
-    - [Nástroje vývojáře](nastroje.md)
- 
  - [První program](prvni-projekt.md)
    - Hello world!
    - Výpočty
+   - Proměnné a datové typy
+   - Metody
+   - Objektové (wrappované) datové typy
  
- - [Proměnné a&nbsp;datové typy](promenne-a-datove-typy.md)
-    - Primitivní datové typy
-    - Objektové (wrappované) datové typy
+ - Kontext
+    - [Co je to Java?](java-a-jdk.md)
+    - [Nástroje vývojáře](nastroje.md)
+    - [Proměnné a&nbsp;datové typy](promenne-a-datove-typy.md)
  
 ## Samostudium
 
