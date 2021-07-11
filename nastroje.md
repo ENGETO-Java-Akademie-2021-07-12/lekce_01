@@ -69,5 +69,6 @@ Oblíbené zkratky:
 - `sout` ... `System.out.println()`
 - `psvm` ... `public static void main(String[] args) {}`
 
-## [Pokračování: Proměnné a&nbsp;datové typy](promenne-a-datove-typy.md)
-## [Zpět na přehled lekce](README.md)
+--- 
+
+[Zpět na obsah lekce...](README.md)

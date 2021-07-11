@@ -16,9 +16,8 @@ V&nbsp;metodě main vytvoř následující proměnné:
 
 6. Datum narození klienta.
 
-7. Registrační značka vozidla.
+7. Registrační značka vozidla („SPZ“).
 
-8. Rodné číslo klienta.
+8. IP adresa verze 4. (Viz například [IP adresa verze 4](https://cs.wikipedia.org/wiki/IP_adresa#IPv4_adresy))
 
-## [Úkoly &mdash; oprav kód](ukoly01-oprav-kod/README.md)
 ## [Osnova lekce](README.md)

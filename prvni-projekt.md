@@ -63,5 +63,6 @@ public class Ruler {
 }
 ```
 
-## [Pokračování: Vývojářské nástroje](nastroje.md)
-## [Zpět na přehled lekce](README.md)
+--- 
+
+[Zpět na obsah lekce...](README.md)

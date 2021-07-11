@@ -11,7 +11,7 @@
  - Zároveň je to **omezení** — **bez JVM program nespustíš** a&nbsp;při spouštění je třeba aktivovat JVM, nestačí jen „kliknout“ na spustitelný program (resp. stačí, pokud je systém správně nastavený).
 
 ## Objektově orientovaný jazyk
-Java je objektově orientovaný jazyk. To znamená, že Java není čistě objektový jazyk (vše je objekt), ale nacházejí se zde i&nbsp;primitivní datové typy, jež nejsou reprezentovány jako objekty. 
+Java je objektově orientovaný jazyk. To znamená, že Java není čistě objektový jazyk &mdash; používá i&nbsp;primitivní datové typy), které nejsou reprezentovány jako objekty. 
 
 ## Garbage Collector a práce s&nbsp;pamětí
 Java se proti mnoha jiným jazykům vyznačuje zejména bezpečností při správě paměti. Vývojář je plně odstíněn od práce s ní. Při práci s objekty využívá pouze reference (odkazy) a veškerou alokaci a uvolňování paměti řeší JVM, popřípadě Garbage Collector. (V tomto rysu je Java podobná jazyku C#.) Tím se:
@@ -97,5 +97,6 @@ Instalujeme tedy:
  - <b>JDK</b> (+ JRE a JVM) pro vývoj Java aplikací
  - <b>JRE</b> (+ JVM) pokud chceme pouze spouštět Java aplikace
 
-## [Další: První projekt](prvni-projekt.md)
-## [Zpět na přehled lekce](README.md)
+--- 
+
+[Zpět na obsah lekce...](README.md)

@@ -8,4 +8,6 @@ Odkomentuj postupně všechny metody. V&nbsp;každé je chyba, kterou musíš na
 
 Ve výsledku by měly zmizet všechny řádkové komentáře a&nbsp;kód by měl být funkční.
 
-## [Osnova lekce](../README.md)
+--- 
+
+[Zpět na obsah lekce...](../README.md)

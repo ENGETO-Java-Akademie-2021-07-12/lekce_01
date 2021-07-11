@@ -121,5 +121,6 @@ String jmenoUzivatele = celeJmeno;
 ## Další zdroje:
 Můžete si projít také [text o&nbsp;proměnných v&nbsp;kurzu Java#1](https://engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/u2B-FJ11Q5mW6MDi-B6GSg/popis-dat-promenne-objekty/promenne-a-datove-typy/promenne).
 
-## [Pokračování: Úkoly](README.md#Úkoly)
-## [Osnova lekce](README.md)
+--- 
+
+[Zpět na obsah lekce...](README.md)
