@@ -3,15 +3,26 @@
  První vydání jazyka se datuje do roku 1995, vývoj však započal na začátku devadesátých let. 
  
  ## Překlad a bajtkód
- - Jazyk Java byl navržen jako řešení pro vývoj platformně nezávislých programů. Program napsaný v Javě tedy jde spustit na libovolném z podporovaných operačních systémů (na Windows, v Linuxu, MacOS,...).
- - Proto má Java na rozdíl od ostatních jazyků rozdílný způsob překladu a spouštění. Většina jazyků se _překládá_ (_kompiluje_) přímo do sekvence instrukcí dané procesorové platformy, které zapíšeme do souboru (například soubor .exe ve Windows) a následně se tento soubor spouští. Java místo toho vytváří takzvaný _bajtkód_. To je sekvence instrukcí fiktivního procesoru. Tyto instrukce pak nelze spustit přímo přímo v&nbsp;procesoru počítače — spouští se ve virtuálním stroji, který se nazývá JVM (Java Virtual Machine). 
+ - Jazyk Java byl navržen jako řešení pro vývoj **platformně nezávislých programů**.
+  - Program napsaný v Javě tedy jde spustit na libovolném z podporovaných operačních systémů (na Windows, v Linuxu, MacOS,...).
+ - Proto má Java na rozdíl od ostatních jazyků rozdílný způsob překladu a spouštění. 
+  - Většina jazyků se _překládá_ (_kompiluje_) přímo do sekvence instrukcí dané procesorové platformy, které zapíšeme do souboru (například soubor .exe ve Windows) a následně se tento soubor spouští. Java místo toho vytváří takzvaný _bajtkód_. To je sekvence instrukcí fiktivního procesoru. Tyto instrukce pak nelze spustit přímo přímo v&nbsp;procesoru počítače — spouští se ve virtuálním stroji, který se nazývá JVM (Java Virtual Machine). 
  
  - **Výhodou** tohoto přístupu je jeho **nezávislost na platformě**. Kdekoliv máš k&nbsp;dispozici JVM, můžeš spouštět jakýkoli program v&nbsp;Javě. 
  
  - Zároveň je to **omezení** — **bez JVM program nespustíš** a&nbsp;při spouštění je třeba aktivovat JVM, nestačí jen „kliknout“ na spustitelný program (resp. stačí, pokud je systém správně nastavený).
 
 ## Objektově orientovaný jazyk
-Java je objektově orientovaný jazyk. To znamená, že Java není čistě objektový jazyk &mdash; používá i&nbsp;primitivní datové typy), které nejsou reprezentovány jako objekty. 
+Java je _objektově orientovaný jazyk._ To znamená, že Java není _čistě objektový jazyk_ &mdash; používá i&nbsp;primitivní datové typy, které nejsou reprezentovány jako objekty. 
+
+# IDE, JDK, JRE a různé platformy
+
+Jak to tedy v&nbsp;Javě funguje?
+
+1. Vývojář napíše program (_zdrojový kód_)
+    - K tomu využije vývojové prostředí (_IDE_), nebo jakýkoli textový editor.
+
+![JDK, JRE a různé platformy](img/jdk-jvm-bytecode.png)
 
 ## Garbage Collector a práce s&nbsp;pamětí
 Java se proti mnoha jiným jazykům vyznačuje zejména bezpečností při správě paměti. Vývojář je plně odstíněn od práce s ní. Při práci s objekty využívá pouze reference (odkazy) a veškerou alokaci a uvolňování paměti řeší JVM, popřípadě Garbage Collector. (V tomto rysu je Java podobná jazyku C#.) Tím se:
@@ -55,15 +66,6 @@ class CoalMine {
   }
 }
 ```
-
-# IDE, JDK, JRE a různé platformy
-
-Jak to tedy v&nbsp;Javě funguje?
-
-1. Vývojář napíše program (_zdrojový kód_)
-    - K tomu využije vývojové prostředí (_IDE_), nebo jakýkoli textový editor.
-
-![JDK, JRE a různé platformy](img/jdk-jvm-bytecode.png)
 
 ## Shrňme si to
 
