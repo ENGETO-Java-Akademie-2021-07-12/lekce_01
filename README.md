@@ -8,26 +8,38 @@
 
 Před první hodinou bys měl(a) mít naistalované základní nástoje, které budeme na tomto kurzu používat. Návod, jak na to, je [zde](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro/blob/main/priprava.md).
 
-Pokud jsi narazil(a) při instalaci na problém, tak nám klidně napište na Slacku a rádi Vám s&nbsp;tím poradíme. Můžeš také využít konzultaci.
+Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to můžeme probrat na konzultaci.
 
 ## Co nás čeká
+
+ - Úvod
+    - [Jak probíhá Java akademie](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro/blob/main/o-akademii.md)
+
+    - [Co je to Java](java-a-jdk.md)
+
+    - [Nástroje vývojáře](nastroje.md)
  
- - [První program: Hello World!](prvni-projekt.md)
+ - [První program](prvni-projekt.md)
+   - Hello world!
+   - Výpočty
  
  - [Proměnné a&nbsp;datové typy](promenne-a-datove-typy.md)
+    - Primitivní datové typy
+    - Objektové (wrappované) datové typy
  
-# Samostudium
+## Samostudium
 
- - [Co je to Java](java-a-jdk.md)
+ - [Programování a Java v&nbsp;Java #1](https://learn.engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/nmKzyzg5TKqZtXXx8-yYaQ/zaciname-s-javou/co-je-programovani/programatori-a-programovaci-jazyky)
 
- - [Nástroje vývojáře](nastroje.md)
- 
+  - [Proměnné a&nbsp;datové typy (první část kapitoly — objekty budou až příště)](https://learn.engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/u2B-FJ11Q5mW6MDi-B6GSg/popis-dat-promenne-objekty/promenne-a-datove-typy/promenne)
 
 
 ## Úkoly
 
- - [Připrav proměnné](ukoly.md)
- - [Oprav chybný kód](ukoly01-oprav-kod/README.md)
+ - [Dokončení instalace nástrojů (pokud ještě nemáš)](https://github.com/ENGETO-Java-Akademie-2021-07-12/intro/blob/main/priprava.md)
+
+ - [Úkol: Připrav proměnné](ukol-vytvor-promenne.md)
+ - [Úkol: Oprav chybný kód](ukol-oprav-kod/README.md)
 
 
 ---
