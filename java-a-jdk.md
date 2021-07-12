@@ -71,6 +71,12 @@ class CoalMine {
 }
 ```
 
+# Kde se Java používá?
+
+- backend webových aplikací (API,...)
+- programování mobilních aplikací
+- multiplatformní aplikace
+
 # Shrňme si to
 
 ### IDE
