@@ -69,6 +69,10 @@ Oblíbené zkratky:
 - `sout` ... `System.out.println()`
 - `psvm` ... `public static void main(String[] args) {}`
 
+
+> Vývojových prostředí samozřejmě existuje více. V&nbsp;nouzi se dá dokonce dočasně použít on-line IDE: [Online-IDE.com](https://www.online-ide.com/online_java_compiler). Nelze tam ovšem pracovat s&nbsp;více než jedním souborem.
+
+
 --- 
 
 [Zpět na obsah lekce...](README.md)
